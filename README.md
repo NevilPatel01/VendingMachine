@@ -32,4 +32,4 @@ This Java program simulates a break room vending machine where users can interac
 
 ## NOTE:
 
-This Project Vending Machine was developed by Nevil Dineshkumar Patel. The code is the intellectual property of the author, and any unauthorized copying, reproduction, or distribution is strictly prohibited.
+This Project Vending Machine was developed by Nevil Dineshkumar Patel. The code is the intellectual property of the author, and any unauthorized copying, reproduction, or distribution is strictly prohibited for assignment use.
